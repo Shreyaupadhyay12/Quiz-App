@@ -1,10 +1,10 @@
-# Jobify
+# quizify
 
 A modern job tracking application built with cutting-edge web technologies.
 
 ## 🚀 Project Overview
 
-**Jobify** is a job management app created by **Shreya**. It helps users track job applications, manage their status, and stay organized during the job search process.
+**quizify** is a job management app created by **Shreya**. It helps users track job applications, manage their status, and stay organized during the job search process.
 
 ## 🔐 Features
 
@@ -47,7 +47,7 @@ jobify/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/jobify.git
+git clone https://github.com/your-username/quizify.git
 cd jobify
 ````
 
