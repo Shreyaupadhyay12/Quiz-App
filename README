@@ -1,0 +1,78 @@
+# Jobify
+
+A modern job tracking application built with cutting-edge web technologies.
+
+## 🚀 Project Overview
+
+**Jobify** is a job management app created by **Shreya**. It helps users track job applications, manage their status, and stay organized during the job search process.
+
+## 🔐 Features
+
+- ✅ User authentication using **Supabase**
+- ⚙️ Built with **TypeScript** for type safety and maintainability
+- 🎨 Styled using **ShadCN UI components**
+- ⚡ Fast build and development powered by **Vite**
+- 🧩 Modular and scalable component structure
+
+## 🛠 Tech Stack
+
+- **Framework**: React + Vite
+- **Language**: TypeScript
+- **Auth & Backend**: Supabase
+- **UI Library**: ShadCN (based on Tailwind CSS)
+- **State Management**: React hooks (or add Zustand/Recoil if used)
+- **Tooling**: ESLint, Prettier, PostCSS, Tailwind
+
+## 📁 Project Structure
+
+```
+
+jobify/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── lib/
+│   └── ...
+├── supabase/          # Supabase configuration
+├── tailwind.config.ts
+├── tsconfig.json
+├── vite.config.ts
+└── ...
+
+````
+
+## 🧪 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/jobify.git
+cd jobify
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+## 📦 Build
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+## 🙌 Author
+
+Created with ❤️ by **Shreya**
